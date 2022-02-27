@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   the level of the "working masses." - Vladimir Lenin, 1901, "What Is To Be Done?"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://comwriters.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: commwriters
+github_username:  comwriters
 markdown: GFM
 
 # Build settings
